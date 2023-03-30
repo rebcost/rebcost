@@ -1,12 +1,18 @@
 <h1 align="center">Oi 👋, eu sou Filipe Crysthian</h1>
 <h3 align="center">Estudante de Engenharia da computacão apaixonado por python e desenvolvimento Android</h3>
 
- <div>
+- 🌱 Atualmente aprendendo sobre **Java | Kotlin**
+
+- 💬 Me pergunte sobre **Python, Android**
+
+- 📫 Como me encontrar **filipecrysthian@gmail.com**
+
+ <div align="center">
   <a href="https://github.com/rebcost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebcost&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebcost&layout=compact&langs_count=7&theme=react"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
   <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">  
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -16,30 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">  
 </div>
  
-<div> 
-- 🌱 Atualmente aprendendo sobre **Java | Kotlin**
 
-- 💬 Me pergunte sobre **Python, Android**
-
-- 📫 Como me encontrar **filipecrysthian@gmail.com**
- </div>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/filipecrysthian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filipecrysthian/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/filipe.rebelo.798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/filipe.rebelo.798" height="30" width="40" /></a>
-<a href="https://instagram.com/@felypecost4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@felypecost4" height="30" width="40" /></a>
-</p>
- 
- <div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/filipecrysthian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filipecrysthian/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/filipe.rebelo.798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/filipe.rebelo.798" height="30" width="40" /></a>
-<a href="https://instagram.com/@felypecost4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@felypecost4" height="30" width="40" /></a>
-</p>
- </div> 
- 
 <div> 
   <a href="https://www.youtube.com/channel/UCBjCIicsZH-8pbgXwIf_Png" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/felypecost4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
