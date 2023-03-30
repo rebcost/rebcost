@@ -1,4 +1,5 @@
-###  Oi eu sou o Felýpë 👋
+<h1 align="center">Oi 👋, eu sou Filipe Crysthian</h1>
+<h3 align="center">Estudante de Engenharia da computacão apaixonado por python e desenvolvimento Android</h3>
 
  <div>
   <a href="https://github.com/rebcost">
@@ -12,13 +13,32 @@
   <img align="center" alt="CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  
-  
-  
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">  
 </div>
-  
-  ##
+ 
+<div> 
+- 🌱 Atualmente aprendendo sobre **Java | Kotlin**
+
+- 💬 Me pergunte sobre **Python, Android**
+
+- 📫 Como me encontrar **filipecrysthian@gmail.com**
+ </div>
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/filipecrysthian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filipecrysthian/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/filipe.rebelo.798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/filipe.rebelo.798" height="30" width="40" /></a>
+<a href="https://instagram.com/@felypecost4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@felypecost4" height="30" width="40" /></a>
+</p>
+ 
+ <div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/filipecrysthian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filipecrysthian/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/filipe.rebelo.798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/filipe.rebelo.798" height="30" width="40" /></a>
+<a href="https://instagram.com/@felypecost4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@felypecost4" height="30" width="40" /></a>
+</p>
+ </div> 
  
 <div> 
   <a href="https://www.youtube.com/channel/UCBjCIicsZH-8pbgXwIf_Png" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -29,4 +49,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ 
+ 
 
